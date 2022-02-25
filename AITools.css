@@ -1,0 +1,10 @@
+.spacer {
+    height: calc(100% - 200px);
+    width: 0px;
+    float: right;
+}
+.bottomRight {
+    height: 200px;
+    float: right;
+    clear: right;
+}
